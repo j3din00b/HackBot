@@ -70,7 +70,7 @@ The instructions looks like this:
 
 Using the instruction set and the data provided via the prompt the llama AI generates its output.
 
-For the most usage I suggest you create an runpod serverless endpoit deployment of llama you can refer this tutorial for that [tutorial](https://www.youtube.com/watch?v=Ftb4vbGUr7U). Follow the tutorial for better use.
+For the most usage I suggest you create an runpod serverless endpoint deployment of llama you can refer this tutorial for that [tutorial](https://www.youtube.com/watch?v=Ftb4vbGUr7U). Follow the tutorial for better use.
 ### Chat:
 ![HackBot_chat](https://github.com/morpheuslord/HackBot/assets/70637311/01a95209-6037-45c6-aadc-30919abccf7e)
 
